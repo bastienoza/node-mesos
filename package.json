@@ -1,6 +1,6 @@
 {
   "name": "mesos",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "Mesos clients",
   "main": "lib/index.js",
   "dependencies": {
